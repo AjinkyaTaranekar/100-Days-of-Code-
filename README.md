@@ -1,16 +1,16 @@
 # 100-Days-of-Code-
 ## Day 0
-- Introduction.
-- Joined Progate
-- What is Git?
-- What is Version Control?
-- What is Distributed Version Control?
-- What is Centralised Version Control?
+- [x] Introduction.
+- [x] Joined Progate
+- [x] What is Git?
+- [x] What is Version Control?
+- [x] What is Distributed Version Control?
+- [x] What is Centralised Version Control?
 ## Day 1
-- Git Workspace and Installation
-- Git Configuration
-- Git Command Initialization
-- Three Stage Architecture of Git
-- Tracking our First Project
+- [x] Git Workspace and Installation
+- [x] Git Configuration
+- [x] Git Command Initialization
+- [x] Three Stage Architecture of Git
+- [x] Tracking our First Project
 ## Day 2
-- Assignment 1
+- [x] Assignment 1
